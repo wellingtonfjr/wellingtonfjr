@@ -45,16 +45,6 @@ A Charades-style word game with 3 rounds of changing rules (free association →
  
 ---
  
-## 💼 Where I've worked
- 
-| | |
-|---|---|
-| **Capgemini Engineering** · Fullstack Engineer · 2024–now | Telemedicine platform for SPMS (Portuguese Ministry of Health). Lead 3 frontend engineers; +30% adoption by improving real-time video performance (React, WebRTC, WebSocket); WCAG-compliant public UI |
-| **Nuvemshop** · Frontend Engineer · 2020–2024 | Checkout for Latin America's largest e-commerce platform. Migrated legacy PHP checkout to React/Next.js; built Node.js services for payments, shipping and orders |
-| **Vamos Parcelar** · Developer & Product Owner · 2018–2020 | Full-stack features and backlog ownership at an instalment-payments fintech |
- 
----
- 
 ## 🛠️ Tech I work with
  
 **Front end**
