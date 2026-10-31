@@ -7,7 +7,6 @@
 On my own time I build full-stack tools end to end: data pipelines, APIs, UIs and the CI/CD that ships them.
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtonfjr)
-[![Email](https://img.shields.io/badge/Email-wellingtonfjr@hotmail.com-EA4335?style=flat&logo=maildotru&logoColor=white)](mailto:wellingtonfjr@hotmail.com)
  
 ---
  
