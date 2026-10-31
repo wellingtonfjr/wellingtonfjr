@@ -15,7 +15,7 @@ On my own time I build full-stack tools end to end: data pipelines, APIs, UIs an
 ### [job-radar](https://github.com/wellingtonfjr/job-radar) · [🔗 live demo](https://radar-de-vagas.fly.dev)
 **Real, current job openings, straight from employers' career pages.**
  
-A full-stack job aggregator that reads employers' own hiring systems (Greenhouse, Lever, Ashby, SmartRecruiters) plus several job boards twice a day, and keeps only roles that are still open.
+A full-stack job aggregator that reads employers' own hiring systems (Greenhouse, Lever, Ashby, SmartRecruiters) plus several job boards twice a day, and keeps only roles that are still open and were posted in the last 60 days.
  
 - **Ingestion pipeline:** normalizes thousands of postings (category, seniority, salary, eligible countries, tech stack), deduplicates them and closes roles that disappear
 - **Measurable accuracy:** weekly audits and hourly liveness checks against the employer's ATS, with CI alerts if open-role precision drops below 97%
